@@ -37,28 +37,42 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=0GrPp-AUz5I)
 - **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
-- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/your-form)
+### Lección 7: Herencia (extends y super) (9 minutos)
+- **Descripción**: Aprender sobre la herencia de clases.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=kZ7THUDKyts)
+- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
+### Lección 8: Arrays y manejo de colecciones simples (10 minutos)
+- **Descripción**: Creación de arreglos y manejo de colecciones simples.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=sbZ4rYDS66Q)
+- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
+### Lección 9: Proyecto Final - Juego de Adivinanzas (10 minutos)
+- **Descripción**: Se desarrolla un juego de adivinanzas como proyecto final del curso.
+- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=p2qbZHJBSbw)
+- **Consejos clave**: Depurar errores, explorar la documentación de Oracle Java.
+- **Compartir tu trabajo**: [Enviar creación](https://forms.gle/SbkM7ZivfL2zwUPD9)
 ## Recursos adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/AplicacionesOpenSource-Grupo1/java-fundamentals-course-PlayMatch)
-- **Todas las actividades prácticas**:
-| Número de lección | Actividad | Empezar a programar |
-|----------|----------|-------------|
-| 1 | Hola mundo | [Replit](https://replit.com/@your-lesson1) |
-| 2 | Variables | [Replit](https://replit.com/@your-lesson2) |
-| 3 | Bucles | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4 | Métodos y clases | [OnlineGDB](https://onlinegdb.com/your-lesson4) |
-| 5 | Programa OOP | [Replit](https://replit.com/@your-lesson5) |
+- **Todas las actividades prácticas**: <br>
+
+| Número de lección | Actividad          | Empezar a programar                                           |
+|-------------------|---------------------|----------------------------------------------------------------|
+| 1                 | Hola mundo          | [Replit](https://replit.com/@your-lesson1)                    |
+| 2                 | Variables           | [Replit](https://replit.com/@your-lesson2)                    |
+| 3                 | Bucles              | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
+| 4                 | Métodos y clases    | [OnlineGDB](https://onlinegdb.com/your-lesson4)               |
+| 5                 | Programa OOP        | [Replit](https://replit.com/@your-lesson5)                    |
+
 - Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
 - Compartir: #JavaBeginners
 **¡Gracias por completar el curso!**
 ---
 ## 👥 Elaboración
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202520
-1ASI0729 Desarrollo de Aplicaciones Open Source
-NRC 7369
-**Nombre del equipo**: PlayMatch
-**Líder del equipo**: Juan Carlos Angulo Abad
-**Integrantes del equipo**: Mathias Javier Murillo, Andy Alejandro Mio Mejia, Oliver Jonseck Choque, Gianfranco Durand Vega
+Universidad Peruana de Ciencias Aplicadas <br>
+Carrera de Ingeniería de Software <br>
+Período 202520 <br>
+1ASI0729 Desarrollo de Aplicaciones Open Source <br>
+NRC 7369 <br>
+**Nombre del equipo**: PlayMatch <br>
+**Líder del equipo**: Juan Carlos Angulo Abad <br>
+**Integrantes del equipo**: Mathias Javier Murillo, Andy Alejandro Mio Mejia, Oliver Jonseck Choque, Gianfranco Durand Vega <br>
 **Fecha de entrega**: 12/11/2025
