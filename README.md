@@ -61,8 +61,12 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 | 3                 | Bucles              | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4                 | Métodos y clases    | [OnlineGDB](https://onlinegdb.com/your-lesson4)               |
 | 5                 | Programa OOP        | [Replit](https://replit.com/@your-lesson5)                    |
+| 6                 | Consejos y próximos pasos  | [Replit](https://replit.com/@your-lesson6)                    |
+| 7                 | Herencia (extends y super)       | [Replit](https://replit.com/@your-lesson7)                    |
+| 8                 | Arrays y manejo de colecciones simples        | [Replit](https://replit.com/@your-lesson8)                    |
+| 9                 | Proyecto Final - Juego de Adivinanzas        | [Replit](https://replit.com/@your-lesson9)                    |
 
-- Cuestionario: [Prueba de conocimientos](https://forms.gle/your-quiz)
+- Cuestionario: [Prueba de conocimientos](https://forms.gle/CYUsdwqkLLGKry2YA)
 - Compartir: #JavaBeginners
 **¡Gracias por completar el curso!**
 ---
